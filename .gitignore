@@ -1,0 +1,8 @@
+.env
+expenses.db
+__pycache__/
+.venv/
+temp/
+
+# Модель Vosk тяжёлая, её лучше не хранить в репозитории
+models/
